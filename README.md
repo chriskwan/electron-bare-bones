@@ -1,5 +1,5 @@
 # electron-bare-bones
-Bare bones [Electron](http://electron.atom.io) app for demo purposes
+Bare bones [Electron](http://electron.atom.io) app for demo purposes. Used in my [Intro to Electron Lightning Talk](https://github.com/chriskwan/electron-lightning-talk).
 
 To Run:
 
